@@ -946,3 +946,959 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.09-02.18.56:689][294]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/FPing.FPing
 [2022.04.09-02.18.58:828][535]LogSlate: Took 0.005765 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2022.04.09-02.19.00:510][711]LogSlate: Took 0.005727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.09-02.23.15:664][750]BlueprintLog: New page: Compile BP_Doc
+[2022.04.09-02.23.15:725][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.04.09-02.23.15:807][750]LogSlate: Took 0.007575 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.09-02.23.16:524][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Doc" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset" SILENT=true
+[2022.04.09-02.23.16:566][815]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BP_DocAB39FB4949D896DDE3C1B183FF495CBE.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset'
+[2022.04.09-02.23.16:585][815]AssetCheck: New page: Asset Save: BP_Doc
+[2022.04.09-02.23.16:586][815]LogContentValidation: Display: Validating Blueprint /Game/BP_Doc.BP_Doc
+[2022.04.09-02.23.26:666][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Doc" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset" SILENT=true
+[2022.04.09-02.23.26:684][952]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BP_Doc10A6978142E847BBDD544091817044A9.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset'
+[2022.04.09-02.23.26:696][952]AssetCheck: New page: Asset Save: BP_Doc
+[2022.04.09-02.23.26:696][952]LogContentValidation: Display: Validating Blueprint /Game/BP_Doc.BP_Doc
+[2022.04.09-02.23.33:438][738]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.09-02.23.33:449][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.09-02.23.33:450][738]PIE: New page: PIE session: Untitled_1 (Apr 8, 2022, 6:23:33 PM)
+[2022.04.09-02.23.33:459][738]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.09-02.23.33:461][738]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.09-02.23.33:464][738]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2022.04.09-02.23.33:472][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008718s)
+[2022.04.09-02.23.33:475][738]LogAIModule: Creating AISystem for world Untitled_1
+[2022.04.09-02.23.33:476][738]LogPlayLevel: PIE: World Init took: (0.002744s)
+[2022.04.09-02.23.33:476][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.012403s)
+[2022.04.09-02.23.33:499][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.04.09-02.23.33:502][738]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.09-02.23.33:502][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.09-02.23.33:502][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.09-02.23.33:502][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.09-02.23.33:502][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.09-02.23.33:502][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.09-02.23.33:502][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.09-02.23.33:502][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.09-02.23.33:502][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.09-02.23.33:503][738]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.09-02.23.33:503][738]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.09-02.23.33:503][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.09-02.23.33:503][738]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.09-02.23.33:509][738]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.09-02.23.33:509][738]LogAudioMixer: Display: 1: FrontRight
+[2022.04.09-02.23.33:531][738]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.04.09-02.23.33:531][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.09-02.23.33:531][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.09-02.23.33:531][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.09-02.23.33:532][738]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.09-02.23.33:532][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.09-02.23.33:532][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.09-02.23.33:533][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.09-02.23.33:533][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.09-02.23.33:533][738]LogInit: FAudioDevice initialized.
+[2022.04.09-02.23.33:533][738]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2022.04.09-02.23.33:546][738]LogLoad: Game class is 'GameModeBase'
+[2022.04.09-02.23.33:559][738]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2022.04.08-22.23.33
+[2022.04.09-02.23.33:561][738]LogWorld: Bringing up level for play took: 0.001864
+[2022.04.09-02.23.33:562][738]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.04.09-02.23.33:589][738]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.04.09-02.23.33:600][738]PIE: Server logged in
+[2022.04.09-02.23.33:603][738]PIE: Play in editor total start time 0.159 seconds.
+[2022.04.09-02.23.37:293][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-02.23.37:293][109]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2022.04.09-02.23.37:297][109]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.09-02.23.37:297][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-02.23.37:310][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.09-02.23.37:316][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-02.23.37:350][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-02.23.37:355][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-02.23.37:357][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-02.23.37:394][109]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2022.04.09-02.23.37:422][110]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.04.09-02.23.46:551][107]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/UE4 Doc Repositories/RealTimeDataPing'
+[2022.04.09-02.23.47:735][242]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.09-02.23.47:747][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.09-02.23.47:747][242]PIE: New page: PIE session: Untitled_1 (Apr 8, 2022, 6:23:47 PM)
+[2022.04.09-02.23.47:747][242]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2022.04.09-02.23.47:749][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002491s)
+[2022.04.09-02.23.47:751][242]LogAIModule: Creating AISystem for world Untitled_1
+[2022.04.09-02.23.47:751][242]LogPlayLevel: PIE: World Init took: (0.001850s)
+[2022.04.09-02.23.47:751][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004471s)
+[2022.04.09-02.23.47:786][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.04.09-02.23.47:789][242]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.09-02.23.47:789][242]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.09-02.23.47:789][242]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.09-02.23.47:789][242]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.09-02.23.47:789][242]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.09-02.23.47:789][242]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.09-02.23.47:789][242]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.09-02.23.47:789][242]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.09-02.23.47:789][242]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.09-02.23.47:790][242]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.09-02.23.47:790][242]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.09-02.23.47:790][242]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.09-02.23.47:790][242]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.09-02.23.47:795][242]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.09-02.23.47:795][242]LogAudioMixer: Display: 1: FrontRight
+[2022.04.09-02.23.47:817][242]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.04.09-02.23.47:817][242]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.09-02.23.47:817][242]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.09-02.23.47:817][242]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.09-02.23.47:818][242]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.09-02.23.47:818][242]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.09-02.23.47:818][242]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.09-02.23.47:819][242]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.09-02.23.47:819][242]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.09-02.23.47:819][242]LogInit: FAudioDevice initialized.
+[2022.04.09-02.23.47:819][242]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled_1'.
+[2022.04.09-02.23.47:826][242]LogLoad: Game class is 'GameModeBase'
+[2022.04.09-02.23.47:827][242]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2022.04.08-22.23.47
+[2022.04.09-02.23.47:828][242]LogWorld: Bringing up level for play took: 0.000567
+[2022.04.09-02.23.47:828][242]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.04.09-02.23.47:832][242]LogRuntimeDataTable: URL to download csv is https://docs.google.com/spreadsheets/d/1za1ITRt5-hlSccK7QHmRE5Mhy4UpQgKe-48D4Uew028/export?format=csv&gid=0
+[2022.04.09-02.23.47:832][242]LogRuntimeDataTable: URL to download csv is https://docs.google.com/spreadsheets/d/1za1ITRt5-hlSccK7QHmRE5Mhy4UpQgKe-48D4Uew028/export?format=csv&gid=0
+[2022.04.09-02.23.47:832][242]PIE: Server logged in
+[2022.04.09-02.23.47:833][242]PIE: Play in editor total start time 0.093 seconds.
+[2022.04.09-02.23.50:362][540]LogRuntimeDataTable: URuntimeDataTableObject::GenericValidateHttpResponse: GET Response received, success: true, Response code: 200, Response:
+,0,Food Bin Label,Food Bin# Integer,Time of Measurement,Amount of food Remaining
+,1,Food Bin 1,1,823.21,99
+,2,Food Bin 2,1,923.21,92
+,3,Food Bin 3,1,1023.21,88
+,4,Food Bin 4,1,1123.21,87
+,5,Food Bin 5,1,1223.21,75
+,6,Food Bin 6,1,123.21,74
+,7,Food Bin 7,1,223.21,73
+,8,Food Bin 8,1,323.21,65
+,9,Food Bin 9,1,423.21,63
+,10,Food Bin 10,1,523.21,45
+,11,Food Bin 11,1,623.21,34
+[2022.04.09-02.23.50:363][540]LogBlueprintUserMessages: [BP_Doc_2] Well The stuff should be in an array
+[2022.04.09-02.23.50:365][540]LogBlueprintUserMessages: [BP_Doc_2]     Food Bin 11,     1,        623.21,        34
+[2022.04.09-02.23.50:365][540]LogBlueprintUserMessages: [BP_Doc_2] 34
+[2022.04.09-02.23.50:365][540]LogRuntimeDataTable: URuntimeDataTableObject::GenericValidateHttpResponse: GET Response received, success: true, Response code: 200, Response:
+,0,Food Bin Label,Food Bin# Integer,Time of Measurement,Amount of food Remaining
+,1,Food Bin 1,1,823.21,99
+,2,Food Bin 2,1,923.21,92
+,3,Food Bin 3,1,1023.21,88
+,4,Food Bin 4,1,1123.21,87
+,5,Food Bin 5,1,1223.21,75
+,6,Food Bin 6,1,123.21,74
+,7,Food Bin 7,1,223.21,73
+,8,Food Bin 8,1,323.21,65
+,9,Food Bin 9,1,423.21,63
+,10,Food Bin 10,1,523.21,45
+,11,Food Bin 11,1,623.21,34
+[2022.04.09-02.23.50:365][540]LogBlueprintUserMessages: [BP_Doc_2] ,0,Food Bin Label,Food Bin# Integer,Time of Measurement,Amount of food Remaining
+,1,Food Bin 1,1,823.21,99
+,2,Food Bin 2,1,923.21,92
+,3,Food Bin 3,1,1023.21,88
+,4,Food Bin 4,1,1123.21,87
+,5,Food Bin 5,1,1223.21,75
+,6,Food Bin 6,1,123.21,74
+,7,Food Bin 7,1,223.21,73
+,8,Food Bin 8,1,323.21,65
+,9,Food Bin 9,1,423.21,63
+,10,Food Bin 10,1,523.21,45
+,11,Food Bin 11,1,623.21,34
+[2022.04.09-02.23.58:236][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-02.23.58:236][477]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2022.04.09-02.23.58:236][477]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.09-02.23.58:236][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-02.23.58:250][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.09-02.23.58:262][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-02.23.58:287][477]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.09-02.23.58:287][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-02.23.58:288][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-02.23.58:291][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-02.23.58:295][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.04.09-02.23.58:332][478]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.04.09-02.24.09:436][565]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/UE4 Doc Repositories/RealTimeDataPing'
+[2022.04.09-02.24.12:740][565]LogSlate: Window 'Save Level As' being destroyed
+[2022.04.09-02.24.12:821][571]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/UE4 Doc Repositories/RealTimeDataPing'
+[2022.04.09-02.24.14:238][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.04.09-02.24.16:274][730]LogSlate: Window 'Save Content' being destroyed
+[2022.04.09-02.24.16:352][730]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/UE4 Doc Repositories/RealTimeDataPing'
+[2022.04.09-02.24.23:409][730]LogSlate: Window 'Save Level As' being destroyed
+[2022.04.09-02.24.23:422][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Doc_map" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/Maps/Doc_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.09-02.24.23:455][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.04.09-02.24.23:468][730]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/Doc_mapACE3A2304A94F0E3791A0190F5FE1BCA.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/Maps/Doc_map.umap'
+[2022.04.09-02.24.23:649][730]LogFileHelpers: Saving map 'Doc_map' took 0.234
+[2022.04.09-02.24.23:685][730]LogLinker: Warning: [AssetLog] C:\UE4 Doc Repositories\RealTimeDataPing\RealTimeDataPing\Content\DocsLevel.umap: Failed to load '/Game/DocsLevel_BuiltData': Can't find file.
+[2022.04.09-02.24.23:685][730]LogLinker: Warning: [AssetLog] C:\UE4 Doc Repositories\RealTimeDataPing\RealTimeDataPing\Content\DocsLevel.umap: Failed to load '/Game/DocsLevel_BuiltData': Can't find file.
+[2022.04.09-02.24.23:686][730]LogLinker: Warning: [AssetLog] C:\UE4 Doc Repositories\RealTimeDataPing\RealTimeDataPing\Content\DocsLevel.umap: Failed to load '/Game/DocsLevel_BuiltData': Can't find file.
+[2022.04.09-02.24.23:687][730]LogLinker: Warning: [AssetLog] C:\UE4 Doc Repositories\RealTimeDataPing\RealTimeDataPing\Content\DocsLevel.umap: Failed to load '/Game/DocsLevel_BuiltData': Can't find file.
+[2022.04.09-02.24.23:688][730]LoadErrors: Failed to load /Game/DocsLevel_BuiltData.DocsLevel_BuiltData Referenced by PersistentLevel
+[2022.04.09-02.24.23:696][730]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DocsLevel.DocsLevel
+[2022.04.09-02.24.23:697][730]Cmd: MAP LOAD FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/DocsLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.09-02.24.23:697][730]LightingResults: New page: Lighting Build
+[2022.04.09-02.24.23:697][730]LoadErrors: New page: Loading map: DocsLevel.umap
+[2022.04.09-02.24.23:730][730]LogWorld: UWorld::CleanupWorld for Doc_map, bSessionEnded=true, bCleanupResources=true
+[2022.04.09-02.24.23:731][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-02.24.23:734][730]MapCheck: New page: Map Check
+[2022.04.09-02.24.23:734][730]LightingResults: New page: Lighting Build
+[2022.04.09-02.24.23:763][730]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.09-02.24.23:778][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.04.09-02.24.23:778][730]LogAudio: Display: Audio Device (ID: 1) registered with world 'DocsLevel'.
+[2022.04.09-02.24.23:817][730]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.09-02.24.23:818][730]LogAIModule: Creating AISystem for world DocsLevel
+[2022.04.09-02.24.23:851][730]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.04.09-02.24.23:860][730]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.09-02.24.23:860][730]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.248ms to complete.
+[2022.04.09-02.24.23:860][730]LogFileHelpers: Loading map 'DocsLevel' took 0.164
+[2022.04.09-02.24.23:885][730]AssetCheck: New page: Asset Save: Doc_map
+[2022.04.09-02.24.23:885][730]LogContentValidation: Display: Validating World /Game/Maps/Doc_map.Doc_map
+[2022.04.09-02.24.23:887][730]LogLinker: Warning: [AssetLog] C:\UE4 Doc Repositories\RealTimeDataPing\RealTimeDataPing\Content\Maps\Doc_map.umap: Failed to load '/Game/Maps/Doc_map_BuiltData': Can't find file.
+[2022.04.09-02.24.23:887][730]LogLinker: Warning: [AssetLog] C:\UE4 Doc Repositories\RealTimeDataPing\RealTimeDataPing\Content\Maps\Doc_map.umap: Failed to load '/Game/Maps/Doc_map_BuiltData': Can't find file.
+[2022.04.09-02.24.23:888][730]LogLinker: Warning: [AssetLog] C:\UE4 Doc Repositories\RealTimeDataPing\RealTimeDataPing\Content\Maps\Doc_map.umap: Failed to load '/Game/Maps/Doc_map_BuiltData': Can't find file.
+[2022.04.09-02.24.23:889][730]LogLinker: Warning: [AssetLog] C:\UE4 Doc Repositories\RealTimeDataPing\RealTimeDataPing\Content\Maps\Doc_map.umap: Failed to load '/Game/Maps/Doc_map_BuiltData': Can't find file.
+[2022.04.09-02.24.23:889][730]LoadErrors: Failed to load /Game/Maps/Doc_map_BuiltData.Doc_map_BuiltData Referenced by PersistentLevel
+[2022.04.09-02.24.24:413][734]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/UE4 Doc Repositories/RealTimeDataPing'
+[2022.04.09-02.24.28:244][170]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2022.04.09-02.24.28:267][170]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DocsLevel.DocsLevel
+[2022.04.09-02.24.28:267][170]Cmd: MAP LOAD FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/DocsLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.09-02.24.28:267][170]LightingResults: New page: Lighting Build
+[2022.04.09-02.24.28:267][170]LoadErrors: New page: Loading map: DocsLevel.umap
+[2022.04.09-02.24.28:290][170]LogWorld: UWorld::CleanupWorld for DocsLevel, bSessionEnded=true, bCleanupResources=true
+[2022.04.09-02.24.28:290][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-02.24.28:290][170]MapCheck: New page: Map Check
+[2022.04.09-02.24.28:290][170]LightingResults: New page: Lighting Build
+[2022.04.09-02.24.28:315][170]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.09-02.24.28:350][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.04.09-02.24.28:379][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.04.09-02.24.28:405][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.04.09-02.24.28:407][170]LogLinker: Warning: [AssetLog] C:\UE4 Doc Repositories\RealTimeDataPing\RealTimeDataPing\Content\DocsLevel.umap: Failed to load '/Game/DocsLevel_BuiltData': Can't find file.
+[2022.04.09-02.24.28:408][170]LogLinker: Warning: [AssetLog] C:\UE4 Doc Repositories\RealTimeDataPing\RealTimeDataPing\Content\DocsLevel.umap: Failed to load '/Game/DocsLevel_BuiltData': Can't find file.
+[2022.04.09-02.24.28:408][170]LogLinker: Warning: [AssetLog] C:\UE4 Doc Repositories\RealTimeDataPing\RealTimeDataPing\Content\DocsLevel.umap: Failed to load '/Game/DocsLevel_BuiltData': Can't find file.
+[2022.04.09-02.24.28:410][170]LogLinker: Warning: [AssetLog] C:\UE4 Doc Repositories\RealTimeDataPing\RealTimeDataPing\Content\DocsLevel.umap: Failed to load '/Game/DocsLevel_BuiltData': Can't find file.
+[2022.04.09-02.24.28:410][170]LoadErrors: Failed to load /Game/DocsLevel_BuiltData.DocsLevel_BuiltData Referenced by PersistentLevel
+[2022.04.09-02.24.28:412][170]LogAudio: Display: Audio Device (ID: 1) registered with world 'DocsLevel'.
+[2022.04.09-02.24.28:413][170]LogAIModule: Creating AISystem for world DocsLevel
+[2022.04.09-02.24.28:444][170]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.09-02.24.28:516][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.04.09-02.24.28:530][170]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.09-02.24.28:530][170]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.264ms to complete.
+[2022.04.09-02.24.28:530][170]LogFileHelpers: Loading map 'DocsLevel' took 0.263
+[2022.04.09-02.24.30:954][445]LogSlate: Window 'Message Log' being destroyed
+[2022.04.09-02.24.30:958][445]LogSlate: Window 'Message Log' being destroyed
+[2022.04.09-02.24.33:693][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.09-02.24.33:718][754]LogLinker: Warning: [AssetLog] C:\UE4 Doc Repositories\RealTimeDataPing\RealTimeDataPing\Content\Maps\Doc_map.umap: Failed to load '/Game/Maps/Doc_map_BuiltData': Can't find file.
+[2022.04.09-02.24.33:718][754]LogLinker: Warning: [AssetLog] C:\UE4 Doc Repositories\RealTimeDataPing\RealTimeDataPing\Content\Maps\Doc_map.umap: Failed to load '/Game/Maps/Doc_map_BuiltData': Can't find file.
+[2022.04.09-02.24.33:719][754]LogLinker: Warning: [AssetLog] C:\UE4 Doc Repositories\RealTimeDataPing\RealTimeDataPing\Content\Maps\Doc_map.umap: Failed to load '/Game/Maps/Doc_map_BuiltData': Can't find file.
+[2022.04.09-02.24.33:720][754]LogLinker: Warning: [AssetLog] C:\UE4 Doc Repositories\RealTimeDataPing\RealTimeDataPing\Content\Maps\Doc_map.umap: Failed to load '/Game/Maps/Doc_map_BuiltData': Can't find file.
+[2022.04.09-02.24.33:721][754]LoadErrors: Failed to load /Game/Maps/Doc_map_BuiltData.Doc_map_BuiltData Referenced by PersistentLevel
+[2022.04.09-02.24.33:726][754]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Doc_map.Doc_map
+[2022.04.09-02.24.33:726][754]Cmd: MAP LOAD FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/Maps/Doc_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.09-02.24.33:726][754]LightingResults: New page: Lighting Build
+[2022.04.09-02.24.33:726][754]LoadErrors: New page: Loading map: Doc_map.umap
+[2022.04.09-02.24.33:759][754]LogWorld: UWorld::CleanupWorld for DocsLevel, bSessionEnded=true, bCleanupResources=true
+[2022.04.09-02.24.33:759][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-02.24.33:760][754]MapCheck: New page: Map Check
+[2022.04.09-02.24.33:760][754]LightingResults: New page: Lighting Build
+[2022.04.09-02.24.33:784][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.09-02.24.33:788][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.04.09-02.24.33:788][754]LogAudio: Display: Audio Device (ID: 1) registered with world 'Doc_map'.
+[2022.04.09-02.24.33:819][754]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.09-02.24.33:819][754]LogAIModule: Creating AISystem for world Doc_map
+[2022.04.09-02.24.33:850][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.04.09-02.24.33:858][754]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.09-02.24.33:858][754]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.188ms to complete.
+[2022.04.09-02.24.33:858][754]LogFileHelpers: Loading map 'Doc_map' took 0.133
+[2022.04.09-02.24.37:721][179]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DT_Ping.DT_Ping
+[2022.04.09-02.34.34:031][106]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2022.04.09-02.34.34:032][106]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Doc_map' took 0.092
+[2022.04.09-02.34.34:033][106]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Doc] ([2] browsable assets)...
+[2022.04.09-02.34.34:033][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Doc]
+[2022.04.09-02.34.34:033][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Doc" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/Autosaves/Game/BP_Doc_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.04.09-02.34.34:051][106]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BP_Doc_Auto1E32F786943722BCA6907639533D013CF.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/Autosaves/Game/BP_Doc_Auto1.uasset'
+[2022.04.09-02.34.34:052][106]LogFileHelpers: Auto-saving content packages took 0.020
+[2022.04.09-02.35.25:898][581]LogSlate: Took 0.006103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.04.09-02.35.29:955][992]BlueprintLog: New page: Compile BP_Doc
+[2022.04.09-02.35.30:041][992]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2022.04.09-02.35.30:632][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Doc" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset" SILENT=true
+[2022.04.09-02.35.30:651][ 41]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BP_Doc1725F21A4C52CB43D1D02F8CF1D49326.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset'
+[2022.04.09-02.35.30:666][ 41]AssetCheck: New page: Asset Save: BP_Doc
+[2022.04.09-02.35.30:666][ 41]LogContentValidation: Display: Validating Blueprint /Game/BP_Doc.BP_Doc
+[2022.04.09-02.36.05:112][ 14]BlueprintLog: New page: Compile BP_Doc
+[2022.04.09-02.36.05:166][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2022.04.09-02.36.05:847][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Doc" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset" SILENT=true
+[2022.04.09-02.36.05:865][ 74]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BP_Doc1DE8545A4B027B311CAA798052789034.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset'
+[2022.04.09-02.36.05:879][ 74]AssetCheck: New page: Asset Save: BP_Doc
+[2022.04.09-02.36.05:879][ 74]LogContentValidation: Display: Validating Blueprint /Game/BP_Doc.BP_Doc
+[2022.04.09-02.36.08:135][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Doc_map" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/Maps/Doc_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.09-02.36.08:165][320]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.04.09-02.36.08:181][320]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/Doc_map4A98D62F4BCE6767DB3C56B7E78F473F.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/Maps/Doc_map.umap'
+[2022.04.09-02.36.08:207][320]AssetCheck: New page: Asset Save: Doc_map
+[2022.04.09-02.36.08:207][320]LogContentValidation: Display: Validating World /Game/Maps/Doc_map.Doc_map
+[2022.04.09-02.36.09:090][414]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.09-02.36.09:098][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.09-02.36.09:099][414]PIE: New page: PIE session: Doc_map (Apr 8, 2022, 6:36:09 PM)
+[2022.04.09-02.36.09:134][414]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Doc_map
+[2022.04.09-02.36.09:137][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002495s)
+[2022.04.09-02.36.09:138][414]LogAIModule: Creating AISystem for world Doc_map
+[2022.04.09-02.36.09:138][414]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2022.04.09-02.36.09:138][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Doc_map.Doc_map to /Game/Maps/UEDPIE_0_Doc_map.Doc_map (0.004082s)
+[2022.04.09-02.36.09:168][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.04.09-02.36.09:169][414]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.09-02.36.09:170][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.09-02.36.09:170][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.09-02.36.09:170][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.09-02.36.09:170][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.09-02.36.09:170][414]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.09-02.36.09:170][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.09-02.36.09:170][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.09-02.36.09:170][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.09-02.36.09:170][414]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.09-02.36.09:170][414]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.09-02.36.09:170][414]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.09-02.36.09:170][414]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.09-02.36.09:177][414]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.09-02.36.09:177][414]LogAudioMixer: Display: 1: FrontRight
+[2022.04.09-02.36.09:198][414]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.04.09-02.36.09:198][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.09-02.36.09:198][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.09-02.36.09:198][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.09-02.36.09:198][414]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.09-02.36.09:198][414]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.09-02.36.09:198][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.09-02.36.09:200][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.09-02.36.09:200][414]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.09-02.36.09:200][414]LogInit: FAudioDevice initialized.
+[2022.04.09-02.36.09:200][414]LogAudio: Display: Audio Device (ID: 4) registered with world 'Doc_map'.
+[2022.04.09-02.36.09:208][414]LogLoad: Game class is 'GameModeBase'
+[2022.04.09-02.36.09:210][414]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Doc_map.Doc_map up for play (max tick rate 0) at 2022.04.08-22.36.09
+[2022.04.09-02.36.09:210][414]LogWorld: Bringing up level for play took: 0.000617
+[2022.04.09-02.36.09:210][414]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.04.09-02.36.09:213][414]LogRuntimeDataTable: URL to download csv is https://docs.google.com/spreadsheets/d/15HVwoKYLReV61E5R0zO5BOLSrQ5XeAUvf_JTrYKNJOA/export?format=csv
+[2022.04.09-02.36.09:213][414]LogRuntimeDataTable: URL to download csv is https://docs.google.com/spreadsheets/d/15HVwoKYLReV61E5R0zO5BOLSrQ5XeAUvf_JTrYKNJOA/export?format=csv
+[2022.04.09-02.36.09:213][414]PIE: Server logged in
+[2022.04.09-02.36.09:214][414]PIE: Play in editor total start time 0.116 seconds.
+[2022.04.09-02.36.11:362][669]LogRuntimeDataTable: URuntimeDataTableObject::GenericValidateHttpResponse: GET Response received, success: true, Response code: 200, Response:
+,0,Username,Password
+,1,Abba,a
+,2,Brent,b
+,3,Charlie,c
+,4,Dave,d
+,5,Eli,e
+,6,Frodo,f
+,7,Gandalf,g
+,8,Harry,h
+,9,Ilan,i
+,10,Jorer,j
+[2022.04.09-02.36.11:363][669]LogBlueprintUserMessages: [BP_Doc_2] ,0,Username,Password
+,1,Abba,a
+,2,Brent,b
+,3,Charlie,c
+,4,Dave,d
+,5,Eli,e
+,6,Frodo,f
+,7,Gandalf,g
+,8,Harry,h
+,9,Ilan,i
+,10,Jorer,j
+[2022.04.09-02.36.11:430][677]LogRuntimeDataTable: URuntimeDataTableObject::GenericValidateHttpResponse: GET Response received, success: true, Response code: 200, Response:
+,0,Username,Password
+,1,Abba,a
+,2,Brent,b
+,3,Charlie,c
+,4,Dave,d
+,5,Eli,e
+,6,Frodo,f
+,7,Gandalf,g
+,8,Harry,h
+,9,Ilan,i
+,10,Jorer,j
+[2022.04.09-02.36.11:430][677]LogBlueprintUserMessages: [BP_Doc_2] Well The stuff should be in an array
+[2022.04.09-02.36.11:430][677]LogScript: Warning: Attempted to access index 10 from array DocTestPing of length 10!
+	BP_Doc_C /Game/Maps/UEDPIE_0_Doc_map.Doc_map:PersistentLevel.BP_Doc_2
+	Function /Game/BP_Doc.BP_Doc_C:ExecuteUbergraph_BP_Doc:01DE
+[2022.04.09-02.36.11:431][677]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array DocTestPing of length 10!". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print Text
+[2022.04.09-02.36.11:431][677]LogScript: Warning: Accessed None reading structure AmountoffoodRemaining_13_70E1B2B74C252C1278D1F79860003A2B
+	BP_Doc_C /Game/Maps/UEDPIE_0_Doc_map.Doc_map:PersistentLevel.BP_Doc_2
+	Function /Game/BP_Doc.BP_Doc_C:ExecuteUbergraph_BP_Doc:01DE
+[2022.04.09-02.36.11:431][677]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure AmountoffoodRemaining_13_70E1B2B74C252C1278D1F79860003A2B". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print Text
+[2022.04.09-02.36.11:431][677]LogScript: Warning: Attempted to access index 10 from array DocTestPing of length 10!
+	BP_Doc_C /Game/Maps/UEDPIE_0_Doc_map.Doc_map:PersistentLevel.BP_Doc_2
+	Function /Game/BP_Doc.BP_Doc_C:ExecuteUbergraph_BP_Doc:02D8
+[2022.04.09-02.36.11:431][677]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array DocTestPing of length 10!". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print Text
+[2022.04.09-02.36.11:431][677]LogScript: Warning: Accessed None reading structure TimeofMeasurement_16_EE21DE574EB019FAEF58ACB79FA10BB6
+	BP_Doc_C /Game/Maps/UEDPIE_0_Doc_map.Doc_map:PersistentLevel.BP_Doc_2
+	Function /Game/BP_Doc.BP_Doc_C:ExecuteUbergraph_BP_Doc:02D8
+[2022.04.09-02.36.11:431][677]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure TimeofMeasurement_16_EE21DE574EB019FAEF58ACB79FA10BB6". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print Text
+[2022.04.09-02.36.11:431][677]LogScript: Warning: Attempted to access index 10 from array DocTestPing of length 10!
+	BP_Doc_C /Game/Maps/UEDPIE_0_Doc_map.Doc_map:PersistentLevel.BP_Doc_2
+	Function /Game/BP_Doc.BP_Doc_C:ExecuteUbergraph_BP_Doc:0390
+[2022.04.09-02.36.11:431][677]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array DocTestPing of length 10!". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print Text
+[2022.04.09-02.36.11:431][677]LogScript: Warning: Accessed None reading structure FoodBinInteger_11_436BCEF24F4498694C9E30A50CDFE80F
+	BP_Doc_C /Game/Maps/UEDPIE_0_Doc_map.Doc_map:PersistentLevel.BP_Doc_2
+	Function /Game/BP_Doc.BP_Doc_C:ExecuteUbergraph_BP_Doc:0390
+[2022.04.09-02.36.11:431][677]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure FoodBinInteger_11_436BCEF24F4498694C9E30A50CDFE80F". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print Text
+[2022.04.09-02.36.11:431][677]LogScript: Warning: Attempted to access index 10 from array DocTestPing of length 10!
+	BP_Doc_C /Game/Maps/UEDPIE_0_Doc_map.Doc_map:PersistentLevel.BP_Doc_2
+	Function /Game/BP_Doc.BP_Doc_C:ExecuteUbergraph_BP_Doc:0400
+[2022.04.09-02.36.11:431][677]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array DocTestPing of length 10!". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print Text
+[2022.04.09-02.36.11:431][677]LogScript: Warning: Accessed None reading structure FoodBinLabel_10_21A7451F41D81FDD3FD0E7B6922DE5AB
+	BP_Doc_C /Game/Maps/UEDPIE_0_Doc_map.Doc_map:PersistentLevel.BP_Doc_2
+	Function /Game/BP_Doc.BP_Doc_C:ExecuteUbergraph_BP_Doc:0400
+[2022.04.09-02.36.11:431][677]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure FoodBinLabel_10_21A7451F41D81FDD3FD0E7B6922DE5AB". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print Text
+[2022.04.09-02.36.11:432][677]LogBlueprintUserMessages: [BP_Doc_2]     ,     0,        0,        0
+[2022.04.09-02.36.11:432][677]LogScript: Warning: Attempted to access index 10 from array DocTestPing of length 10!
+	BP_Doc_C /Game/Maps/UEDPIE_0_Doc_map.Doc_map:PersistentLevel.BP_Doc_2
+	Function /Game/BP_Doc.BP_Doc_C:ExecuteUbergraph_BP_Doc:0628
+[2022.04.09-02.36.11:432][677]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array DocTestPing of length 10!". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print String
+[2022.04.09-02.36.11:432][677]LogScript: Warning: Accessed None reading structure AmountoffoodRemaining_13_70E1B2B74C252C1278D1F79860003A2B
+	BP_Doc_C /Game/Maps/UEDPIE_0_Doc_map.Doc_map:PersistentLevel.BP_Doc_2
+	Function /Game/BP_Doc.BP_Doc_C:ExecuteUbergraph_BP_Doc:0628
+[2022.04.09-02.36.11:432][677]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure AmountoffoodRemaining_13_70E1B2B74C252C1278D1F79860003A2B". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print String
+[2022.04.09-02.36.11:432][677]LogBlueprintUserMessages: [BP_Doc_2] 0
+[2022.04.09-02.36.23:986][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-02.36.23:986][171]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Doc_map
+[2022.04.09-02.36.23:986][171]LogWorld: UWorld::CleanupWorld for Doc_map, bSessionEnded=true, bCleanupResources=true
+[2022.04.09-02.36.23:986][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-02.36.23:992][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.09-02.36.23:997][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-02.36.24:025][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-02.36.24:025][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-02.36.24:026][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-02.36.24:033][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.04.09-02.36.24:161][172]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.04.09-02.36.37:128][946]LogSlate: Window 'Message Log' being destroyed
+[2022.04.09-02.37.44:438][725]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2022.04.09-02.37.44:454][725]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2022.04.09-02.37.45:490][849]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> NewUserDefinedStruct
+[2022.04.09-02.37.45:596][849]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2022.04.09-02.39.26:812][484]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> BPing
+[2022.04.09-02.39.27:376][484]LogMetaData: Removing '/Game/BPing.BPing' ref from Metadata '/Game/NewUserDefinedStruct.PackageMetaData'
+[2022.04.09-02.39.27:411][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPing" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BPing.uasset" SILENT=true
+[2022.04.09-02.39.27:413][484]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BPing351260B4490D77325CD465BCB7D54B45.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BPing.uasset'
+[2022.04.09-02.39.27:773][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.04.09-02.39.27:822][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.04.09-02.39.27:849][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.04.09-02.39.27:886][484]AssetCheck: New page: Asset Save: BPing
+[2022.04.09-02.39.27:886][484]LogContentValidation: Display: Validating UserDefinedStruct /Game/BPing.BPing
+[2022.04.09-02.39.29:094][616]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/BPing.BPing
+[2022.04.09-02.42.57:105][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPing" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BPing.uasset" SILENT=true
+[2022.04.09-02.42.57:108][ 48]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BPingAA308E804C73932C5255D1A8E2E9166B.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BPing.uasset'
+[2022.04.09-02.42.57:125][ 48]AssetCheck: New page: Asset Save: BPing
+[2022.04.09-02.42.57:125][ 48]LogContentValidation: Display: Validating UserDefinedStruct /Game/BPing.BPing
+[2022.04.09-02.43.13:732][ 30]LogSlate: Window 'BPing' being destroyed
+[2022.04.09-02.43.17:508][479]LogSlate: Window 'FPing' being destroyed
+[2022.04.09-02.45.48:301][ 95]BlueprintLog: New page: Compile BP_Doc
+[2022.04.09-02.45.48:358][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2022.04.09-02.45.49:150][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Doc" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset" SILENT=true
+[2022.04.09-02.45.49:169][171]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BP_Doc204EC378483AC75AC6694DBBEC82243C.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset'
+[2022.04.09-02.45.49:182][171]AssetCheck: New page: Asset Save: BP_Doc
+[2022.04.09-02.45.49:183][171]LogContentValidation: Display: Validating Blueprint /Game/BP_Doc.BP_Doc
+[2022.04.09-02.46.25:632][431]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.04.09-02.47.26:837][713]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.04.09-02.47.26:851][713]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/Doc_map_Auto26465CE104EB87133DAEBCFB79BCC6FEB.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/Autosaves/Game/Maps/Doc_map_Auto2.umap'
+[2022.04.09-02.47.26:853][713]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Doc_map' took 0.050
+[2022.04.09-02.47.26:853][713]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2022.04.09-02.47.26:853][713]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Doc] ([2] browsable assets)...
+[2022.04.09-02.47.26:853][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Doc]
+[2022.04.09-02.47.26:853][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Doc" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/Autosaves/Game/BP_Doc_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.04.09-02.47.26:872][713]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BP_Doc_Auto2A07D76874A9A09D8F99D60808C43E9FB.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/Autosaves/Game/BP_Doc_Auto2.uasset'
+[2022.04.09-02.47.26:873][713]LogFileHelpers: Auto-saving content packages took 0.020
+[2022.04.09-02.48.51:664][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPing" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BPing.uasset" SILENT=true
+[2022.04.09-02.48.51:666][824]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BPing1076CC244DE5D9FFDD1936B636D3CBAC.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BPing.uasset'
+[2022.04.09-02.48.51:680][824]AssetCheck: New page: Asset Save: BPing
+[2022.04.09-02.48.51:680][824]LogContentValidation: Display: Validating UserDefinedStruct /Game/BPing.BPing
+[2022.04.09-02.49.49:827][189]BlueprintLog: New page: Compile BP_Doc
+[2022.04.09-02.49.49:883][189]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.04.09-02.49.51:579][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Doc" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset" SILENT=true
+[2022.04.09-02.49.51:598][372]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BP_Doc2FEB097C4E83E5B31BF44A86848B88BC.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset'
+[2022.04.09-02.49.51:609][372]AssetCheck: New page: Asset Save: BP_Doc
+[2022.04.09-02.49.51:609][372]LogContentValidation: Display: Validating Blueprint /Game/BP_Doc.BP_Doc
+[2022.04.09-02.57.27:521][368]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2022.04.09-02.57.27:534][368]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/Doc_map_Auto35477EFC649C31D01F90052ABF4A3C473.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/Autosaves/Game/Maps/Doc_map_Auto3.umap'
+[2022.04.09-02.57.27:536][368]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Doc_map' took 0.049
+[2022.04.09-02.57.27:536][368]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2022.04.09-02.57.27:536][368]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Doc] ([2] browsable assets)...
+[2022.04.09-02.57.27:536][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Doc]
+[2022.04.09-02.57.27:536][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Doc" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/Autosaves/Game/BP_Doc_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.04.09-02.57.27:562][368]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BP_Doc_Auto399EC0B944B6E2548B74CAFAE0A4828DC.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/Autosaves/Game/BP_Doc_Auto3.uasset'
+[2022.04.09-02.57.27:563][368]LogFileHelpers: Auto-saving content packages took 0.027
+[2022.04.09-03.00.15:713][611]BlueprintLog: New page: Compile BP_Doc
+[2022.04.09-03.00.15:767][611]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.04.09-03.00.16:332][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Doc" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset" SILENT=true
+[2022.04.09-03.00.16:353][656]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BP_DocED46B53D4A1FA6FED8F66FA3B02E3B95.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset'
+[2022.04.09-03.00.16:368][656]AssetCheck: New page: Asset Save: BP_Doc
+[2022.04.09-03.00.16:368][656]LogContentValidation: Display: Validating Blueprint /Game/BP_Doc.BP_Doc
+[2022.04.09-03.00.18:166][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Doc_map" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/Maps/Doc_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.09-03.00.18:196][828]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.04.09-03.00.18:207][828]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/Doc_mapCC2DBB6F457EFE2DF46F408B7CA547FD.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/Maps/Doc_map.umap'
+[2022.04.09-03.00.18:231][828]AssetCheck: New page: Asset Save: Doc_map
+[2022.04.09-03.00.18:231][828]LogContentValidation: Display: Validating World /Game/Maps/Doc_map.Doc_map
+[2022.04.09-03.00.18:771][889]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.09-03.00.18:777][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.09-03.00.18:777][889]PIE: New page: PIE session: Doc_map (Apr 8, 2022, 7:00:18 PM)
+[2022.04.09-03.00.18:803][889]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Doc_map
+[2022.04.09-03.00.18:806][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002459s)
+[2022.04.09-03.00.18:807][889]LogAIModule: Creating AISystem for world Doc_map
+[2022.04.09-03.00.18:808][889]LogPlayLevel: PIE: World Init took: (0.001584s)
+[2022.04.09-03.00.18:808][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Doc_map.Doc_map to /Game/Maps/UEDPIE_0_Doc_map.Doc_map (0.004261s)
+[2022.04.09-03.00.18:838][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.04.09-03.00.18:839][889]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.09-03.00.18:839][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.09-03.00.18:839][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.09-03.00.18:839][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.09-03.00.18:839][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.09-03.00.18:839][889]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.09-03.00.18:839][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.09-03.00.18:839][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.09-03.00.18:839][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.09-03.00.18:839][889]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.09-03.00.18:839][889]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.09-03.00.18:839][889]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.09-03.00.18:840][889]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.09-03.00.18:850][889]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.09-03.00.18:850][889]LogAudioMixer: Display: 1: FrontRight
+[2022.04.09-03.00.18:871][889]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.04.09-03.00.18:872][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.09-03.00.18:872][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.09-03.00.18:872][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.09-03.00.18:872][889]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.09-03.00.18:873][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.09-03.00.18:873][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.09-03.00.18:874][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.09-03.00.18:874][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.09-03.00.18:874][889]LogInit: FAudioDevice initialized.
+[2022.04.09-03.00.18:874][889]LogAudio: Display: Audio Device (ID: 5) registered with world 'Doc_map'.
+[2022.04.09-03.00.18:886][889]LogLoad: Game class is 'GameModeBase'
+[2022.04.09-03.00.18:888][889]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Doc_map.Doc_map up for play (max tick rate 0) at 2022.04.08-23.00.18
+[2022.04.09-03.00.18:888][889]LogWorld: Bringing up level for play took: 0.000605
+[2022.04.09-03.00.18:889][889]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.04.09-03.00.18:892][889]LogRuntimeDataTable: URL to download csv is https://docs.google.com/spreadsheets/d/15HVwoKYLReV61E5R0zO5BOLSrQ5XeAUvf_JTrYKNJOA/export?format=csv
+[2022.04.09-03.00.18:892][889]LogRuntimeDataTable: URL to download csv is https://docs.google.com/spreadsheets/d/15HVwoKYLReV61E5R0zO5BOLSrQ5XeAUvf_JTrYKNJOA/export?format=csv
+[2022.04.09-03.00.18:892][889]PIE: Server logged in
+[2022.04.09-03.00.18:893][889]PIE: Play in editor total start time 0.116 seconds.
+[2022.04.09-03.00.20:486][ 78]LogRuntimeDataTable: URuntimeDataTableObject::GenericValidateHttpResponse: GET Response received, success: true, Response code: 200, Response:
+,0,Username,Password
+,1,Abba,a
+,2,Brent,b
+,3,Charlie,c
+,4,Dave,d
+,5,Eli,e
+,6,Frodo,f
+,7,Gandalf,g
+,8,Harry,h
+,9,Ilan,i
+,10,Jorer,j
+[2022.04.09-03.00.20:487][ 78]LogBlueprintUserMessages: [BP_Doc_2] ,0,Username,Password
+,1,Abba,a
+,2,Brent,b
+,3,Charlie,c
+,4,Dave,d
+,5,Eli,e
+,6,Frodo,f
+,7,Gandalf,g
+,8,Harry,h
+,9,Ilan,i
+,10,Jorer,j
+[2022.04.09-03.00.20:495][ 79]LogRuntimeDataTable: URuntimeDataTableObject::GenericValidateHttpResponse: GET Response received, success: true, Response code: 200, Response:
+,0,Username,Password
+,1,Abba,a
+,2,Brent,b
+,3,Charlie,c
+,4,Dave,d
+,5,Eli,e
+,6,Frodo,f
+,7,Gandalf,g
+,8,Harry,h
+,9,Ilan,i
+,10,Jorer,j
+[2022.04.09-03.00.20:496][ 79]LogBlueprintUserMessages: [BP_Doc_2] Well The stuff should be in an array
+[2022.04.09-03.00.20:496][ 79]LogScript: Warning: Attempted to access index 10 from array BranTestPing_0 of length 10!
+	BP_Doc_C /Game/Maps/UEDPIE_0_Doc_map.Doc_map:PersistentLevel.BP_Doc_2
+	Function /Game/BP_Doc.BP_Doc_C:ExecuteUbergraph_BP_Doc:016F
+[2022.04.09-03.00.20:496][ 79]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array BranTestPing_0 of length 10!". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print Text
+[2022.04.09-03.00.20:496][ 79]LogScript: Warning: Accessed None reading structure Password_4_F88E1B0E4E53A1F3C7121E9ED14AC552
+	BP_Doc_C /Game/Maps/UEDPIE_0_Doc_map.Doc_map:PersistentLevel.BP_Doc_2
+	Function /Game/BP_Doc.BP_Doc_C:ExecuteUbergraph_BP_Doc:016F
+[2022.04.09-03.00.20:496][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Password_4_F88E1B0E4E53A1F3C7121E9ED14AC552". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print Text
+[2022.04.09-03.00.20:496][ 79]LogScript: Warning: Attempted to access index 10 from array BranTestPing_0 of length 10!
+	BP_Doc_C /Game/Maps/UEDPIE_0_Doc_map.Doc_map:PersistentLevel.BP_Doc_2
+	Function /Game/BP_Doc.BP_Doc_C:ExecuteUbergraph_BP_Doc:01A3
+[2022.04.09-03.00.20:496][ 79]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array BranTestPing_0 of length 10!". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print Text
+[2022.04.09-03.00.20:496][ 79]LogScript: Warning: Accessed None reading structure Username_3_6868C1DE476C5F7A0BB6FB818F6A1C89
+	BP_Doc_C /Game/Maps/UEDPIE_0_Doc_map.Doc_map:PersistentLevel.BP_Doc_2
+	Function /Game/BP_Doc.BP_Doc_C:ExecuteUbergraph_BP_Doc:01A3
+[2022.04.09-03.00.20:496][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Username_3_6868C1DE476C5F7A0BB6FB818F6A1C89". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print Text
+[2022.04.09-03.00.20:496][ 79]LogBlueprintUserMessages: [BP_Doc_2] , 
+[2022.04.09-03.00.20:496][ 79]LogScript: Warning: Attempted to access index 10 from array DocTestPing of length 0!
+	BP_Doc_C /Game/Maps/UEDPIE_0_Doc_map.Doc_map:PersistentLevel.BP_Doc_2
+	Function /Game/BP_Doc.BP_Doc_C:ExecuteUbergraph_BP_Doc:041C
+[2022.04.09-03.00.20:496][ 79]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array DocTestPing of length 0!". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print String
+[2022.04.09-03.00.20:497][ 79]LogScript: Warning: Accessed None reading structure AmountoffoodRemaining_13_70E1B2B74C252C1278D1F79860003A2B
+	BP_Doc_C /Game/Maps/UEDPIE_0_Doc_map.Doc_map:PersistentLevel.BP_Doc_2
+	Function /Game/BP_Doc.BP_Doc_C:ExecuteUbergraph_BP_Doc:041C
+[2022.04.09-03.00.20:497][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure AmountoffoodRemaining_13_70E1B2B74C252C1278D1F79860003A2B". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print String
+[2022.04.09-03.00.20:497][ 79]LogBlueprintUserMessages: [BP_Doc_2] 0
+[2022.04.09-03.00.23:164][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-03.00.23:165][395]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Doc_map
+[2022.04.09-03.00.23:165][395]LogWorld: UWorld::CleanupWorld for Doc_map, bSessionEnded=true, bCleanupResources=true
+[2022.04.09-03.00.23:165][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-03.00.23:177][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.09-03.00.23:182][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-03.00.23:209][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-03.00.23:209][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-03.00.23:210][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-03.00.23:217][395]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.04.09-03.00.23:267][396]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.04.09-03.01.08:449][862]BlueprintLog: New page: Compile BP_Doc
+[2022.04.09-03.01.08:501][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.04.09-03.01.09:296][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Doc" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset" SILENT=true
+[2022.04.09-03.01.09:317][934]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BP_DocA7DAEF7848C0DEAFA90EE7AA764D3BF3.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset'
+[2022.04.09-03.01.09:331][934]AssetCheck: New page: Asset Save: BP_Doc
+[2022.04.09-03.01.09:332][934]LogContentValidation: Display: Validating Blueprint /Game/BP_Doc.BP_Doc
+[2022.04.09-03.01.10:963][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Doc_map" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/Maps/Doc_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.09-03.01.10:993][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2022.04.09-03.01.11:009][ 98]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/Doc_map49DE05D94BCBA1059D7471A0BC5F8D36.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/Maps/Doc_map.umap'
+[2022.04.09-03.01.11:033][ 98]AssetCheck: New page: Asset Save: Doc_map
+[2022.04.09-03.01.11:033][ 98]LogContentValidation: Display: Validating World /Game/Maps/Doc_map.Doc_map
+[2022.04.09-03.01.11:527][153]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.09-03.01.11:532][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.09-03.01.11:532][153]PIE: New page: PIE session: Doc_map (Apr 8, 2022, 7:01:11 PM)
+[2022.04.09-03.01.11:563][153]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Doc_map
+[2022.04.09-03.01.11:565][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002357s)
+[2022.04.09-03.01.11:566][153]LogAIModule: Creating AISystem for world Doc_map
+[2022.04.09-03.01.11:567][153]LogPlayLevel: PIE: World Init took: (0.001655s)
+[2022.04.09-03.01.11:567][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Doc_map.Doc_map to /Game/Maps/UEDPIE_0_Doc_map.Doc_map (0.004218s)
+[2022.04.09-03.01.11:597][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.04.09-03.01.11:597][153]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.09-03.01.11:597][153]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.09-03.01.11:597][153]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.09-03.01.11:597][153]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.09-03.01.11:597][153]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.09-03.01.11:597][153]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.09-03.01.11:597][153]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.09-03.01.11:597][153]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.09-03.01.11:597][153]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.09-03.01.11:598][153]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.09-03.01.11:598][153]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.09-03.01.11:598][153]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.09-03.01.11:598][153]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.09-03.01.11:603][153]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.09-03.01.11:603][153]LogAudioMixer: Display: 1: FrontRight
+[2022.04.09-03.01.11:624][153]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.04.09-03.01.11:624][153]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.09-03.01.11:624][153]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.09-03.01.11:624][153]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.09-03.01.11:625][153]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.09-03.01.11:625][153]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.09-03.01.11:625][153]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.09-03.01.11:626][153]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.09-03.01.11:626][153]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.09-03.01.11:626][153]LogInit: FAudioDevice initialized.
+[2022.04.09-03.01.11:626][153]LogAudio: Display: Audio Device (ID: 6) registered with world 'Doc_map'.
+[2022.04.09-03.01.11:635][153]LogLoad: Game class is 'GameModeBase'
+[2022.04.09-03.01.11:637][153]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Doc_map.Doc_map up for play (max tick rate 0) at 2022.04.08-23.01.11
+[2022.04.09-03.01.11:637][153]LogWorld: Bringing up level for play took: 0.000611
+[2022.04.09-03.01.11:637][153]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.04.09-03.01.11:639][153]LogRuntimeDataTable: URL to download csv is https://docs.google.com/spreadsheets/d/15HVwoKYLReV61E5R0zO5BOLSrQ5XeAUvf_JTrYKNJOA/export?format=csv
+[2022.04.09-03.01.11:639][153]LogRuntimeDataTable: URL to download csv is https://docs.google.com/spreadsheets/d/15HVwoKYLReV61E5R0zO5BOLSrQ5XeAUvf_JTrYKNJOA/export?format=csv
+[2022.04.09-03.01.11:639][153]PIE: Server logged in
+[2022.04.09-03.01.11:640][153]PIE: Play in editor total start time 0.109 seconds.
+[2022.04.09-03.01.12:692][276]LogRuntimeDataTable: URuntimeDataTableObject::GenericValidateHttpResponse: GET Response received, success: true, Response code: 200, Response:
+,0,Username,Password
+,1,Abba,a
+,2,Brent,b
+,3,Charlie,c
+,4,Dave,d
+,5,Eli,e
+,6,Frodo,f
+,7,Gandalf,g
+,8,Harry,h
+,9,Ilan,i
+,10,Jorer,j
+[2022.04.09-03.01.12:692][276]LogBlueprintUserMessages: [BP_Doc_2] Well The stuff should be in an array
+[2022.04.09-03.01.12:692][276]LogBlueprintUserMessages: [BP_Doc_2] Jorer, j
+[2022.04.09-03.01.12:692][276]PIE: Error: Blueprint Runtime Error: "Attempted to access index 10 from array DocTestPing of length 0!". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print String
+[2022.04.09-03.01.12:692][276]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure AmountoffoodRemaining_13_70E1B2B74C252C1278D1F79860003A2B". Blueprint:  BP_Doc Function:  Execute Ubergraph BP Doc Graph:  EventGraph Node:  Print String
+[2022.04.09-03.01.12:693][276]LogBlueprintUserMessages: [BP_Doc_2] 0
+[2022.04.09-03.01.12:978][310]LogRuntimeDataTable: URuntimeDataTableObject::GenericValidateHttpResponse: GET Response received, success: true, Response code: 200, Response:
+,0,Username,Password
+,1,Abba,a
+,2,Brent,b
+,3,Charlie,c
+,4,Dave,d
+,5,Eli,e
+,6,Frodo,f
+,7,Gandalf,g
+,8,Harry,h
+,9,Ilan,i
+,10,Jorer,j
+[2022.04.09-03.01.12:978][310]LogBlueprintUserMessages: [BP_Doc_2] ,0,Username,Password
+,1,Abba,a
+,2,Brent,b
+,3,Charlie,c
+,4,Dave,d
+,5,Eli,e
+,6,Frodo,f
+,7,Gandalf,g
+,8,Harry,h
+,9,Ilan,i
+,10,Jorer,j
+[2022.04.09-03.01.16:345][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-03.01.16:345][708]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Doc_map
+[2022.04.09-03.01.16:345][708]LogWorld: UWorld::CleanupWorld for Doc_map, bSessionEnded=true, bCleanupResources=true
+[2022.04.09-03.01.16:345][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-03.01.16:353][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.09-03.01.16:358][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-03.01.16:383][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-03.01.16:389][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-03.01.16:390][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-03.01.16:396][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.04.09-03.01.16:445][709]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.04.09-03.01.59:476][692]BlueprintLog: New page: Compile BP_Doc
+[2022.04.09-03.01.59:530][692]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.04.09-03.02.03:819][165]BlueprintLog: New page: Compile BP_Doc
+[2022.04.09-03.02.03:873][165]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.04.09-03.02.04:364][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Doc" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset" SILENT=true
+[2022.04.09-03.02.04:386][202]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BP_DocAD413C724A0CF98C51D57D9013B504AF.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset'
+[2022.04.09-03.02.04:403][202]AssetCheck: New page: Asset Save: BP_Doc
+[2022.04.09-03.02.04:403][202]LogContentValidation: Display: Validating Blueprint /Game/BP_Doc.BP_Doc
+[2022.04.09-03.02.05:912][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Doc_map" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/Maps/Doc_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.09-03.02.05:943][343]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.04.09-03.02.05:955][343]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/Doc_mapA36BBA0E4EA06EB0C407F9BC49A7CBC2.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/Maps/Doc_map.umap'
+[2022.04.09-03.02.05:978][343]AssetCheck: New page: Asset Save: Doc_map
+[2022.04.09-03.02.05:979][343]LogContentValidation: Display: Validating World /Game/Maps/Doc_map.Doc_map
+[2022.04.09-03.02.06:701][421]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.09-03.02.06:706][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.09-03.02.06:706][421]PIE: New page: PIE session: Doc_map (Apr 8, 2022, 7:02:06 PM)
+[2022.04.09-03.02.06:733][421]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Doc_map
+[2022.04.09-03.02.06:735][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002340s)
+[2022.04.09-03.02.06:736][421]LogAIModule: Creating AISystem for world Doc_map
+[2022.04.09-03.02.06:736][421]LogPlayLevel: PIE: World Init took: (0.001329s)
+[2022.04.09-03.02.06:736][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Doc_map.Doc_map to /Game/Maps/UEDPIE_0_Doc_map.Doc_map (0.003827s)
+[2022.04.09-03.02.06:765][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.04.09-03.02.06:766][421]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.04.09-03.02.06:766][421]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.09-03.02.06:766][421]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.09-03.02.06:766][421]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.09-03.02.06:766][421]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.09-03.02.06:766][421]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.09-03.02.06:766][421]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.09-03.02.06:766][421]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.09-03.02.06:766][421]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.09-03.02.06:766][421]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.09-03.02.06:766][421]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.09-03.02.06:766][421]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.09-03.02.06:766][421]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.09-03.02.06:771][421]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.09-03.02.06:771][421]LogAudioMixer: Display: 1: FrontRight
+[2022.04.09-03.02.06:792][421]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.04.09-03.02.06:793][421]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.09-03.02.06:793][421]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.09-03.02.06:793][421]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.09-03.02.06:793][421]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.09-03.02.06:793][421]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.09-03.02.06:793][421]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.09-03.02.06:794][421]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.09-03.02.06:794][421]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.09-03.02.06:794][421]LogInit: FAudioDevice initialized.
+[2022.04.09-03.02.06:794][421]LogAudio: Display: Audio Device (ID: 7) registered with world 'Doc_map'.
+[2022.04.09-03.02.06:803][421]LogLoad: Game class is 'GameModeBase'
+[2022.04.09-03.02.06:804][421]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Doc_map.Doc_map up for play (max tick rate 0) at 2022.04.08-23.02.06
+[2022.04.09-03.02.06:804][421]LogWorld: Bringing up level for play took: 0.000560
+[2022.04.09-03.02.06:804][421]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.04.09-03.02.06:806][421]LogRuntimeDataTable: URL to download csv is https://docs.google.com/spreadsheets/d/15HVwoKYLReV61E5R0zO5BOLSrQ5XeAUvf_JTrYKNJOA/export?format=csv
+[2022.04.09-03.02.06:807][421]LogRuntimeDataTable: URL to download csv is https://docs.google.com/spreadsheets/d/15HVwoKYLReV61E5R0zO5BOLSrQ5XeAUvf_JTrYKNJOA/export?format=csv
+[2022.04.09-03.02.06:807][421]PIE: Server logged in
+[2022.04.09-03.02.06:808][421]PIE: Play in editor total start time 0.102 seconds.
+[2022.04.09-03.02.07:821][540]LogRuntimeDataTable: URuntimeDataTableObject::GenericValidateHttpResponse: GET Response received, success: true, Response code: 200, Response:
+,0,Username,Password
+,1,Abba,a
+,2,Brent,b
+,3,Charlie,c
+,4,Dave,d
+,5,Eli,e
+,6,Frodo,f
+,7,Gandalf,g
+,8,Harry,h
+,9,Ilan,i
+,10,Jorer,j
+[2022.04.09-03.02.07:822][540]LogBlueprintUserMessages: [BP_Doc_2] Well The stuff should be in an array
+[2022.04.09-03.02.07:822][540]LogBlueprintUserMessages: [BP_Doc_2] Jorer, j
+[2022.04.09-03.02.07:822][540]LogBlueprintUserMessages: [BP_Doc_2] j
+[2022.04.09-03.02.08:543][626]LogRuntimeDataTable: URuntimeDataTableObject::GenericValidateHttpResponse: GET Response received, success: true, Response code: 200, Response:
+,0,Username,Password
+,1,Abba,a
+,2,Brent,b
+,3,Charlie,c
+,4,Dave,d
+,5,Eli,e
+,6,Frodo,f
+,7,Gandalf,g
+,8,Harry,h
+,9,Ilan,i
+,10,Jorer,j
+[2022.04.09-03.02.08:543][626]LogBlueprintUserMessages: [BP_Doc_2] ,0,Username,Password
+,1,Abba,a
+,2,Brent,b
+,3,Charlie,c
+,4,Dave,d
+,5,Eli,e
+,6,Frodo,f
+,7,Gandalf,g
+,8,Harry,h
+,9,Ilan,i
+,10,Jorer,j
+[2022.04.09-03.02.11:794][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-03.02.11:794][  9]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Doc_map
+[2022.04.09-03.02.11:794][  9]LogWorld: UWorld::CleanupWorld for Doc_map, bSessionEnded=true, bCleanupResources=true
+[2022.04.09-03.02.11:794][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-03.02.11:807][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.09-03.02.11:812][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-03.02.11:838][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-03.02.11:838][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-03.02.11:839][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-03.02.11:846][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.04.09-03.02.11:870][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.04.09-03.02.17:702][686]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.09-03.02.17:708][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.09-03.02.17:708][686]PIE: New page: PIE session: Doc_map (Apr 8, 2022, 7:02:17 PM)
+[2022.04.09-03.02.17:743][686]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Doc_map
+[2022.04.09-03.02.17:745][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002383s)
+[2022.04.09-03.02.17:746][686]LogAIModule: Creating AISystem for world Doc_map
+[2022.04.09-03.02.17:747][686]LogPlayLevel: PIE: World Init took: (0.001388s)
+[2022.04.09-03.02.17:747][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Doc_map.Doc_map to /Game/Maps/UEDPIE_0_Doc_map.Doc_map (0.003927s)
+[2022.04.09-03.02.17:776][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.04.09-03.02.17:777][686]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.04.09-03.02.17:778][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.09-03.02.17:778][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.09-03.02.17:778][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.09-03.02.17:778][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.09-03.02.17:778][686]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.09-03.02.17:778][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.09-03.02.17:778][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.09-03.02.17:778][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.09-03.02.17:778][686]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.09-03.02.17:778][686]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.09-03.02.17:778][686]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.09-03.02.17:778][686]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.09-03.02.17:783][686]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.09-03.02.17:783][686]LogAudioMixer: Display: 1: FrontRight
+[2022.04.09-03.02.17:805][686]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.04.09-03.02.17:805][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.09-03.02.17:805][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.09-03.02.17:805][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.09-03.02.17:806][686]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.09-03.02.17:806][686]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.09-03.02.17:806][686]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.09-03.02.17:808][686]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.09-03.02.17:809][686]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.09-03.02.17:809][686]LogInit: FAudioDevice initialized.
+[2022.04.09-03.02.17:809][686]LogAudio: Display: Audio Device (ID: 8) registered with world 'Doc_map'.
+[2022.04.09-03.02.17:819][686]LogLoad: Game class is 'GameModeBase'
+[2022.04.09-03.02.17:820][686]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Doc_map.Doc_map up for play (max tick rate 0) at 2022.04.08-23.02.17
+[2022.04.09-03.02.17:820][686]LogWorld: Bringing up level for play took: 0.000919
+[2022.04.09-03.02.17:821][686]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.04.09-03.02.17:824][686]LogRuntimeDataTable: URL to download csv is https://docs.google.com/spreadsheets/d/15HVwoKYLReV61E5R0zO5BOLSrQ5XeAUvf_JTrYKNJOA/export?format=csv
+[2022.04.09-03.02.17:824][686]LogRuntimeDataTable: URL to download csv is https://docs.google.com/spreadsheets/d/15HVwoKYLReV61E5R0zO5BOLSrQ5XeAUvf_JTrYKNJOA/export?format=csv
+[2022.04.09-03.02.17:825][686]PIE: Server logged in
+[2022.04.09-03.02.17:826][686]PIE: Play in editor total start time 0.12 seconds.
+[2022.04.09-03.02.18:645][779]LogRuntimeDataTable: URuntimeDataTableObject::GenericValidateHttpResponse: GET Response received, success: true, Response code: 200, Response:
+,0,Username,Password
+,1,Abba,a
+,2,Brent,b
+,3,Charlie,c
+,4,Dave,d
+,5,Eli,e
+,6,Frodo,f
+,7,Gandalf,g
+,8,Harry,h
+,9,Ilan,i
+,10,Jorer,j
+[2022.04.09-03.02.18:645][779]LogBlueprintUserMessages: [BP_Doc_2] Well The stuff should be in an array
+[2022.04.09-03.02.18:645][779]LogBlueprintUserMessages: [BP_Doc_2] Jorer, j
+[2022.04.09-03.02.18:645][779]LogBlueprintUserMessages: [BP_Doc_2] j
+[2022.04.09-03.02.18:884][807]LogRuntimeDataTable: URuntimeDataTableObject::GenericValidateHttpResponse: GET Response received, success: true, Response code: 200, Response:
+,0,Username,Password
+,1,Abba,a
+,2,Brent,b
+,3,Charlie,c
+,4,Dave,d
+,5,Eli,e
+,6,Frodo,f
+,7,Gandalf,g
+,8,Harry,h
+,9,Ilan,i
+,10,Jorer,j
+[2022.04.09-03.02.18:884][807]LogBlueprintUserMessages: [BP_Doc_2] ,0,Username,Password
+,1,Abba,a
+,2,Brent,b
+,3,Charlie,c
+,4,Dave,d
+,5,Eli,e
+,6,Frodo,f
+,7,Gandalf,g
+,8,Harry,h
+,9,Ilan,i
+,10,Jorer,j
+[2022.04.09-03.02.26:644][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-03.02.26:644][729]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Doc_map
+[2022.04.09-03.02.26:644][729]LogWorld: UWorld::CleanupWorld for Doc_map, bSessionEnded=true, bCleanupResources=true
+[2022.04.09-03.02.26:644][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-03.02.26:654][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.09-03.02.26:660][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.09-03.02.26:686][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-03.02.26:687][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-03.02.26:688][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.09-03.02.26:695][729]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.04.09-03.02.26:720][730]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.04.09-03.03.12:626][853]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.09-03.03.12:649][853]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.09-03.03.20:041][738]LogContentBrowser: Attempting asset rename: NewFolder -> RunTimBPs
+[2022.04.09-03.03.20:042][738]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.09-03.03.25:559][311]LogMetaData: Removing '/Game/RunTimBPs/FPing.FPing' ref from Metadata '/Game/FPing.PackageMetaData'
+[2022.04.09-03.03.25:560][311]LogMetaData: Removing '/Game/RunTimBPs/BP_Doc.BP_Doc_C' ref from Metadata '/Game/BP_Doc.PackageMetaData'
+[2022.04.09-03.03.25:560][311]LogMetaData: Removing '/Game/RunTimBPs/BP_Doc.BP_Doc:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_Doc.PackageMetaData'
+[2022.04.09-03.03.25:560][311]LogMetaData: Removing '/Game/RunTimBPs/BP_Doc.BP_Doc:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_Doc.PackageMetaData'
+[2022.04.09-03.03.25:560][311]LogMetaData: Removing '/Game/RunTimBPs/BP_Doc.SKEL_BP_Doc_C' ref from Metadata '/Game/BP_Doc.PackageMetaData'
+[2022.04.09-03.03.25:560][311]LogMetaData: Removing '/Game/RunTimBPs/BP_Doc.BP_Doc_C:CustomEvent_1' ref from Metadata '/Game/BP_Doc.PackageMetaData'
+[2022.04.09-03.03.25:560][311]LogMetaData: Removing '/Game/RunTimBPs/BP_Doc.BP_Doc_C:CustomEvent_0' ref from Metadata '/Game/BP_Doc.PackageMetaData'
+[2022.04.09-03.03.25:561][311]LogMetaData: Removing '/Game/RunTimBPs/BP_Doc.SKEL_BP_Doc_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_Doc.PackageMetaData'
+[2022.04.09-03.03.25:561][311]LogMetaData: Removing '/Game/RunTimBPs/BP_Doc.BP_Doc_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_Doc.PackageMetaData'
+[2022.04.09-03.03.25:561][311]LogMetaData: Removing '/Game/RunTimBPs/BP_Doc.SKEL_BP_Doc_C:UserConstructionScript' ref from Metadata '/Game/BP_Doc.PackageMetaData'
+[2022.04.09-03.03.25:561][311]LogMetaData: Removing '/Game/RunTimBPs/BP_Doc.SKEL_BP_Doc_C:CustomEvent_0' ref from Metadata '/Game/BP_Doc.PackageMetaData'
+[2022.04.09-03.03.25:561][311]LogMetaData: Removing '/Game/RunTimBPs/BP_Doc.SKEL_BP_Doc_C:CustomEvent_1' ref from Metadata '/Game/BP_Doc.PackageMetaData'
+[2022.04.09-03.03.25:562][311]LogMetaData: Removing '/Game/RunTimBPs/BPing.BPing' ref from Metadata '/Game/BPing.PackageMetaData'
+[2022.04.09-03.03.25:593][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunTimBPs/FPing" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/RunTimBPs/FPing.uasset" SILENT=true
+[2022.04.09-03.03.25:596][311]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/FPing8246FE5645D2BD9DEC4B049E6E601B02.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/RunTimBPs/FPing.uasset'
+[2022.04.09-03.03.25:744][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPing" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/FPing.uasset" SILENT=true
+[2022.04.09-03.03.25:745][311]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/FPing59A403C14E4394703C03A48E8D8A6EF3.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/FPing.uasset'
+[2022.04.09-03.03.25:747][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunTimBPs/BP_Doc" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/RunTimBPs/BP_Doc.uasset" SILENT=true
+[2022.04.09-03.03.25:769][311]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BP_Doc071EE7374F4E2AC95682C780A9E25195.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/RunTimBPs/BP_Doc.uasset'
+[2022.04.09-03.03.25:918][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Doc" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset" SILENT=true
+[2022.04.09-03.03.25:920][311]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BP_DocE0A36CE44121C16A2EC8BBBACC6F76EF.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/BP_Doc.uasset'
+[2022.04.09-03.03.25:922][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunTimBPs/BPing" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/RunTimBPs/BPing.uasset" SILENT=true
+[2022.04.09-03.03.25:924][311]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/BPing88F328C54AAAA1947329B0994BCEA06B.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/RunTimBPs/BPing.uasset'
+[2022.04.09-03.03.26:066][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunTimBPs/DT_Ping" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/RunTimBPs/DT_Ping.uasset" SILENT=true
+[2022.04.09-03.03.26:068][311]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/DT_PingE8D3F95441FFAD34DFBA9D994A608DCF.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/RunTimBPs/DT_Ping.uasset'
+[2022.04.09-03.03.26:228][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DT_Ping" FILE="../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/DT_Ping.uasset" SILENT=true
+[2022.04.09-03.03.26:229][311]LogSavePackage: Moving '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Saved/DT_Ping2BD82100450689E3A5DC26A09BC4437C.tmp' to '../../../../../UE4 Doc Repositories/RealTimeDataPing/RealTimeDataPing/Content/DT_Ping.uasset'
+[2022.04.09-03.03.26:737][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.04.09-03.03.26:776][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.04.09-03.03.26:802][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.04.09-03.03.26:946][311]SourceControl: rm 'RealTimeDataPing/Content/BPing.uasset'
+[2022.04.09-03.03.26:995][311]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.09-03.03.26:995][311]LogContentValidation: Display: Validating UserDefinedStruct /Game/RunTimBPs/FPing.FPing
+[2022.04.09-03.03.26:995][311]LogContentValidation: Display: Validating Blueprint /Game/RunTimBPs/BP_Doc.BP_Doc
+[2022.04.09-03.03.26:995][311]LogContentValidation: Display: Validating DataTable /Game/RunTimBPs/DT_Ping.DT_Ping
+[2022.04.09-03.03.26:995][311]LogContentValidation: Display: Validating ObjectRedirector /Game/DT_Ping.DT_Ping
+[2022.04.09-03.03.26:995][311]LogContentValidation: Display: Validating ObjectRedirector /Game/BP_Doc.BP_Doc
+[2022.04.09-03.03.26:995][311]LogContentValidation: Display: Validating ObjectRedirector /Game/BP_Doc.Default__BP_Doc_C
+[2022.04.09-03.03.26:995][311]LogContentValidation: Display: Validating ObjectRedirector /Game/BP_Doc.BP_Doc_C
+[2022.04.09-03.03.26:995][311]LogContentValidation: Display: Validating ObjectRedirector /Game/FPing.FPing
+[2022.04.09-03.03.26:995][311]LogContentValidation: Display: Validating UserDefinedStruct /Game/RunTimBPs/BPing.BPing
+[2022.04.09-03.03.40:269][805]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.04.09-03.03.41:773][967]LogSlate: Window 'Asset Report' being destroyed
+[2022.04.09-03.04.04:624][967]AssetTools: New page: Content migration completed successfully!
+[2022.04.09-03.04.04:624][967]AssetTools: /Game/RunTimBPs/FPing
+[2022.04.09-03.04.04:624][967]AssetTools: /Game/RunTimBPs/BP_Doc
+[2022.04.09-03.04.04:624][967]AssetTools: /Game/RunTimBPs/BPing
+[2022.04.09-03.04.04:624][967]AssetTools: /Game/RunTimBPs/DT_Ping
+[2022.04.09-03.04.08:778][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.04.09-03.04.10:423][574]LogSlate: Window 'Asset Report' being destroyed
+[2022.04.09-03.04.23:326][574]AssetTools: New page: Content migration completed successfully!
+[2022.04.09-03.04.23:326][574]AssetTools: /Game/RunTimBPs/FPing
+[2022.04.09-03.04.23:326][574]AssetTools: /Game/RunTimBPs/BP_Doc
+[2022.04.09-03.04.23:326][574]AssetTools: /Game/RunTimBPs/BPing
+[2022.04.09-03.04.23:326][574]AssetTools: /Game/RunTimBPs/DT_Ping
